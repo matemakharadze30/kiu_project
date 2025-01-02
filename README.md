@@ -16,7 +16,7 @@ Reviewing pull requests and maintaining code quality across the project.
 
 # Desc.
 This project implements a simple BASIC-like programming language interpreter in Java. It supports fundamental programming constructs and provides the ability to execute simple algorithms(for now, mathematical expressions). The interpreter includes functionality for tokenizing input, parsing it into an abstract syntax tree (AST), and evaluating the result. It serves as an educational project to explore the basics of compiler design, including lexical analysis, parsing, and interpretation.
-This project implements a simple BASIC-like programming language interpreter in Java. It supports fundamental programming constructs and provides the ability to execute simple algorithms.
+
 
 ## Features
 
